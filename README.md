@@ -4,11 +4,11 @@
 
 # PAX-HPC course: Efficient Parallel IO
 
-## Room G.03, EPCC, Bayes Centre, University of Edinburgh
-
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<h3>David Henty EPCC: Friday 19th December 2024, 09:30 - 16:00</h3>
+## David Henty EPCC: Friday 19th December 2024, 09:30 - 16:00</h3>
+## Room G.03, Bayes Centre, University of Edinburgh
+
 
 One of the greatest challenges to running parallel applications on
 large numbers of processors is how to handle file IO. Standard Unix IO
