@@ -3,7 +3,8 @@
 <br /><br /><br /><br /><br />
 
 # PAX-HPC course: Efficient Parallel IO
-# Room G.03, EPCC, Byaes Building, Universitu of Edinburgh
+
+## Room G.03, EPCC, Bayes Centre, University of Edinburgh
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
