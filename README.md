@@ -6,7 +6,7 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-## David Henty EPCC: Friday 19th December 2024, 09:30 - 16:00</h3>
+## David Henty EPCC: Friday 19th January 2024, 09:30 - 16:00</h3>
 ## Room G.03, Bayes Centre, University of Edinburgh
 
 
@@ -61,7 +61,7 @@ this run, but is made available here for reference.</blockquote></p>
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
 
-<h4>Friday 19th December 2024</h4>
+<h4>Friday 19th January 2024</h4>
 
  * 09:30 - 10:15 : <a href="https://github.com/EPCCed/PAX-HPC-parallelIO-2024-01-19/raw/main/slides/Parallel-IO-1.pdf">Challenges of Parallel IO</a>
  * 10:15 - 10:45 : <a href="https://github.com/EPCCed/PAX-HPC-parallelIO-2024-01-19/raw/main/slides/Parallel-IO-2.pdf">Lustre file system on ARCHER2</a>
