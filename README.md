@@ -51,7 +51,7 @@ administrative privileges on.
 
 They are also required to abide by the [ARCHER2 Code of Conduct](https://www.archer2.ac.uk/about/policies/code-of-conduct.html).
 
-<h3>Timetable (UK time, GMT)</h3>
+<h3>Timetable</h3>
 
 <p><blockquote>This is still a draft course page and the material
 below comes from a previous run of this course. It will be updated for
@@ -61,7 +61,7 @@ this run, but is made available here for reference.</blockquote></p>
 &copy; EPCC, The University of Edinburgh, and is only made available
 for private study. </blockquote></p>
 
-<h4>Wednesday 1st November 2023</h4>
+<h4>Friday 19th December 2024</h4>
 
  * 09:30 - 10:15 : <a href="https://github.com/EPCCed/PAX-HPC-parallelIO-2024-01-19/raw/main/slides/Parallel-IO-1.pdf">Challenges of Parallel IO</a>
  * 10:15 - 10:45 : <a href="https://github.com/EPCCed/PAX-HPC-parallelIO-2024-01-19/raw/main/slides/Parallel-IO-2.pdf">Lustre file system on ARCHER2</a>
